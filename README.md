@@ -1,1 +1,1 @@
-# -TgBotSaleVirtualsNumbers-
+# TgBotSaleVirtualsNumbers
